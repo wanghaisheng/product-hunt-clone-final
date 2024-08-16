@@ -1,3 +1,8 @@
+idea hunt   pollar 
+
+https://github.com/Divide-By-0/ideas-for-projects-people-would-use
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
